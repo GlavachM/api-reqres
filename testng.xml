@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="API">
+    <test name="tests">
+        <classes>
+            <class name="reqres.tests"/>
+        </classes>
+    </test>
+</suite>
